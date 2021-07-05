@@ -1,0 +1,11 @@
+F:\c# training\DynamicArray\DynamicArray\bin\Debug\netcoreapp2.1\DynamicArray.deps.json
+F:\c# training\DynamicArray\DynamicArray\bin\Debug\netcoreapp2.1\DynamicArray.runtimeconfig.json
+F:\c# training\DynamicArray\DynamicArray\bin\Debug\netcoreapp2.1\DynamicArray.runtimeconfig.dev.json
+F:\c# training\DynamicArray\DynamicArray\bin\Debug\netcoreapp2.1\DynamicArray.dll
+F:\c# training\DynamicArray\DynamicArray\bin\Debug\netcoreapp2.1\DynamicArray.pdb
+F:\c# training\DynamicArray\DynamicArray\obj\Debug\netcoreapp2.1\DynamicArray.csprojAssemblyReference.cache
+F:\c# training\DynamicArray\DynamicArray\obj\Debug\netcoreapp2.1\DynamicArray.csproj.CoreCompileInputs.cache
+F:\c# training\DynamicArray\DynamicArray\obj\Debug\netcoreapp2.1\DynamicArray.AssemblyInfoInputs.cache
+F:\c# training\DynamicArray\DynamicArray\obj\Debug\netcoreapp2.1\DynamicArray.AssemblyInfo.cs
+F:\c# training\DynamicArray\DynamicArray\obj\Debug\netcoreapp2.1\DynamicArray.dll
+F:\c# training\DynamicArray\DynamicArray\obj\Debug\netcoreapp2.1\DynamicArray.pdb
